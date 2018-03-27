@@ -1,0 +1,11 @@
+# 2018年3月27日，第一次在gitHub编写Python程序
+# 打印HelloWorld
+print('HelloWorld')
+
+# 换个花样
+a = 'Hello'
+b = 'world'
+print(a + b)
+
+# 花式翻新
+a = 
